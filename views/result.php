@@ -1,6 +1,6 @@
 <?php  include"header.php";
 
-var_dump($_GET);
+//var_dump($_GET); //para validación de qe los datos estan llegando por GET.
 ?>
 <body>
 	<div class="container">
